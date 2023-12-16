@@ -22,8 +22,5 @@ export default {
   margin-top: 60px;
 }
 
-button {
-  margin-top: 10px;
-  padding: 10px;
-}
+
 </style>
